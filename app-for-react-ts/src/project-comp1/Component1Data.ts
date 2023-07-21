@@ -1,8 +1,8 @@
 import { Component1Model } from "./Component1Model";
 
-const listOfNames = [
+const Component1Data = [
   new Component1Model("aishu", "NEU", 25, "hello"),
   new Component1Model("venkat", "NEU", 30, "hello world"),
 ];
 
-export { listOfNames };
+export { Component1Data };
