@@ -1,0 +1,18 @@
+{
+  "personInfo": [
+    {
+      "id": 1,
+      "name": "aishu",
+      "uni_name": "NEU",
+      "age": 25,
+      "description": "hello all. This is person 1 information"
+    },
+    {
+      "id": 2,
+      "name": "venkatesan",
+      "uni_name": "NEU",
+      "age": 32,
+      "description": "New app to try front end coding"
+    }
+  ]
+}
