@@ -13,6 +13,9 @@ function ParentButton() {
     <div>
       <button onClick={clickEvtListener}>About Me</button>
       {showComp && <Component1List personInfoList={Component1Data} />}
+      <a href="https:/news.google.com" target="_blank">
+        <button>News</button>
+      </a>
     </div>
   );
 }
